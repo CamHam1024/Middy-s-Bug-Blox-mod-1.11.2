@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bb",
+  "name": "Midnight's Bug Blox Mod",
+  "description": "Example placeholder mod.",
+  "version": "1.0Beta",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yabusame_Houren"],
+  "credits": "All those who have helped me develop this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
